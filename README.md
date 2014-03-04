@@ -1,4 +1,4 @@
 horshacktest.github.io
 ======================
 
-doin moar flavr
+(http://horshacktest.github.io/)
